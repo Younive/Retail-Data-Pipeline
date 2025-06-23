@@ -7,7 +7,7 @@ In this project, I designed and implemented an ELT data pipeline, leveraging Goo
 ![architecture](https://github.com/Younive/Retail-Data-Pipeline/blob/main/images/elt_diagram.png)
 
 ## Aiflow Tasks
-![tasks](https://github.com/Younive/Retail-Data-Pipeline/blob/main/images/data_pipline.png)
+![tasks](https://github.com/Younive/Retail-Data-Pipeline/blob/main/images/data_pipeline.png)
 
 ## Dashboard via Looker Studio
 ![dashboard](https://github.com/Younive/Retail-Data-Pipeline/blob/main/images/dashboard.png)
